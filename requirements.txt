@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+httpx
+python-jose[cryptography]
+python-dotenv
+fastapi-cache2
+fastapi-limiter
+redis
+circuitbreaker
+prometheus-fastapi-instrumentator
