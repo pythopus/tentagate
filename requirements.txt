@@ -8,3 +8,4 @@ fastapi-limiter
 redis
 circuitbreaker
 prometheus-fastapi-instrumentator
+pydantic-settings
